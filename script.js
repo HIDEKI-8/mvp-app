@@ -1,1 +1,1 @@
-// script.js 内容は生成済み
+// 完全版 script.js 内容

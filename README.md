@@ -1,1 +1,1 @@
-# README 内容は生成済み
+# 完全版 README.md 内容
